@@ -1,0 +1,21 @@
+.container {
+    text-align: center;
+}
+
+.form{
+    display: flex;
+    flex-direction: column; 
+}
+
+label {
+    padding: 2em;   
+}
+
+input.password {
+    margin-left: 14.2em;
+}
+
+.field {
+    padding: 10px;
+}
+
